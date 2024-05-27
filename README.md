@@ -1,6 +1,6 @@
-O codigo precisa das bibbliotecas Pillow e numpy para executar
+O código precisa das bibliotecas Pillow e numpy para executar.
 
-a documentacao do codigo se encontra no arquio _CHALLENGE___METEOR__Vinicius_de_Almeida_Lima.pdf
+A documentação do código se encontra no arquivo _CHALLENGE___METEOR__Vinicius_de_Almeida_Lima.pdf.
 
 
 | Item                          | Description                              |
